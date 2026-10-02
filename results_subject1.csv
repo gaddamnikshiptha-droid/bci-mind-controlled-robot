@@ -1,0 +1,6 @@
+,accuracy,kappa,correct_trials
+CSP+LSTM,0.875,0.75,126
+EEGNet,0.854,0.708,123
+CSP+SVM,0.847,0.694,122
+LSTM-power,0.549,0.097,79
+LSTM,0.521,0.042,75
