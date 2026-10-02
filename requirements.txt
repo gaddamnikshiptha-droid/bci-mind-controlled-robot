@@ -1,0 +1,8 @@
+mne==1.13.2
+moabb==1.7.2
+tensorflow==2.20.0
+scikit-learn==1.6.1
+numpy
+pandas
+matplotlib
+pillow
